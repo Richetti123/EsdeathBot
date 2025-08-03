@@ -51,7 +51,7 @@ global.redesMenu = [all, canal1, canal2, canal3, canal4, md, ig, paypal, yt, asi
 global.accountsgb = [all, canal1, canal2, canal3, canal4, tk, ig, yt, paypal, fb, ths, md, asistencia][Math.floor(Math.random() * 13)]
 global.cuentas = [grupo1, grupo2, grupo_collab1, grupo_collab2, grupo_collab3, grupo_collab4][Math.floor(Math.random() * 6)]
 
-global.canalIdGB = ["120363400536272752@newsletter"]
+global.canalIdGB = ["120363418356834351@newsletter"]
 global.canalNombreGB = ["CANAL OFICIAL🤖"]
 global.channelRD = await getRandomChannel()
 
